@@ -8,8 +8,8 @@ body {
   min-height: 100%;
   background: #fff;
   color: #4c4948;
-  font-size: 14px;
-  font-family: Lato, Helvetica Neue For Number, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, PingFang SC, Hiragino Sans GB, "Microsoft YaHei", Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-family: Lato;
   line-height: 2;
 }
 #body-wrap {
@@ -1232,7 +1232,7 @@ canvas,
   padding: 0;
   background: #263238;
   color: #eff;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 20px;
 }
 .code-area-wrap {
@@ -1265,14 +1265,14 @@ blockquote footer cite:before {
 }
 .article-container pre,
 .article-container code {
-  font-family: consolas, Menlo, "PingFang SC", "Microsoft YaHei", monospace, Helvetica Neue For Number !important;
+  font-family: consolas !important;
 }
 .article-container code {
   padding: 0.1rem 0.2rem;
   background: rgba(27,31,35,0.05);
   color: #f47466;
   word-wrap: break-word;
-  font-size: 14px;
+  font-size: 16px;
 }
 .article-container pre {
   padding: 10px 20px;
